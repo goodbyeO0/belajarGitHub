@@ -1,1 +1,10 @@
+
 this is test branch and we want to merge with the main
+=======
+git add .
+git status
+git commit -m "v1"
+
+atan was here
+kontol main
+
