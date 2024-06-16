@@ -16,7 +16,7 @@ git status
 git commit -m "v1"
 
 atan was here
-kontol main
+forked (barang jadi)
 
 
 
